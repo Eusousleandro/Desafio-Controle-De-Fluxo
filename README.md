@@ -4,7 +4,7 @@ Este desafio foi criado por Gleyson Sampaio, do curso da  DIO - Trilha Java Bás
 
 Autores
 
--Leandro Sousa
+Leandro Sousa
 
 ## O objetivo do desafio de Controle Fluxo
 
