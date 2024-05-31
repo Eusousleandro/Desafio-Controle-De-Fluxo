@@ -1,8 +1,8 @@
-## Desafio de Controle Fluxo
+# Desafio de Controle Fluxo
 
 Este desafio foi criado pelo professor Gleyson Sampaio, do curso da  DIO - Trilha Java Básico. 
 
-# Autores da conclusão do desafio:
+### Autores da conclusão do desafio:
 
 - Leandro Sousa
 
